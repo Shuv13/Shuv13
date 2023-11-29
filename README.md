@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shuvam Dutta</h1>
 <h3 align="center">Just a simple guy who loves tech, from Kolkata,India</h3>
 
-- 🌱 I’m currently learning **Web dev , and will move to app dev soon**
+- 🌱 Well,currently I'm learning **Web dev **
 
-- 💬 Currently I am studying B.tech so you can ask me about **C,python and java**
+- 💬 Studying B.tech CSE AI&ML
 
 - 📫 How to reach me : **shuvamdutta657@gmail.com**
 
