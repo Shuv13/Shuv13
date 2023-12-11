@@ -13,7 +13,7 @@
 <a href="https://stackoverflow.com/users/22489874" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22489874" height="30" width="40" /></a>
 <a href="https://kaggle.com/shuvuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shuvuu" height="30" width="40" /></a>
 <a href="https://instagram.com/shuv__30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shuv__30" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shuvamdutta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shuvamdutta" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/shuvamdutta657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shuvamdutta657" height="30" width="40" /></a>
 </p>
 
