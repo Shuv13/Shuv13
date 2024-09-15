@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuvam Dutta</h1>
-<h3 align="center">Just a simple guy who loves tech, from Kolkata,India</h3>
+<h3 align="center">Just a simple guy who loves tech, from Kolkata, India</h3>
 
 - 🌱 Currently upskilling with **Web Dev, Python**
 
