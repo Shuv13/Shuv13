@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Shuvam Dutta</h1>
 <p align="center">
-  <b>Student | Agentic AI Enthusiast | LLM Builder</b>
-  <br>
+  <b>Student | Agentic AI Enthusiast | LLM Builder</b><br>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -27,16 +26,14 @@
 
 ## 🛠️ Top Skills & Technologies
 
-| Category                | Skills & Frameworks                                                                      |
-|-------------------------|------------------------------------------------------------------------------------------|
-| **Languages**           | Python, Java, SQL                                                                        |
-| **ML Frameworks**       | TensorFlow, PyTorch, Scikit-learn                                                        |
-| **MLOps**               | Docker, Kubernetes, MLflow                                                               |
-| **Deep Learning**       | CNNs, RNNs                                                                               |
-| **GenAI & Agents**      | LLMs & Transformers, RAG Architecture, Agentic Frameworks (CrewAI, LangGraph)            |
-| **Vector Databases**    | ChromaDB, FAISS                                                                          |
-| **Orchestration**       | LangChain, LlamaIndex                                                                    |
-| **API Development**     | FastAPI                                                                                   |
+- **Languages:** Python, Java, SQL
+- **Machine Learning Frameworks:** TensorFlow, PyTorch, Scikit-learn, Keras
+- **MLOps:** Docker, MLflow
+- **Deep Learning:** CNNs, RNNs
+- **Generative AI & Agents:** LLMs, Transformers, RAG Architecture, Agentic Frameworks (CrewAI, LangGraph)
+- **Vector Databases:** ChromaDB, FAISS
+- **Orchestration:** LangChain, LlamaIndex
+- **API Development:** FastAPI
 
 ---
 
@@ -51,7 +48,11 @@
 
 ## 🤝 Connect With Me
 
-- <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/> [LinkedIn](https://www.linkedin.com/in/shuvam-dutta)
+<a href="https://www.linkedin.com/in/shuvam-dutta" target="_blank">
+  <img align="left" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<br clear="left"/>
 
 ---
 
