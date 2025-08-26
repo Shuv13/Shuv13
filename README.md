@@ -1,14 +1,69 @@
-<h1 align="center">Hi 👋, I'm Shuvam Dutta</h1>
-<h3 align="center">A passionate developer from Kolkata</h3>
+<!-- Profile README for Shuv13 -->
 
-- 🌱 I’m currently learning **AI & ML frameworks ,tools and libraries**
+<h1 align="center">Hi there 👋, I'm Shuvam Dutta</h1>
+<p align="center">
+  <b>Student | Agentic AI Enthusiast | LLM Builder</b>
+  <br>
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML--Frameworks-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GenAI--Agents-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs--Transformers-purple?style=for-the-badge"/>
+</p>
 
-- 📫 How to reach me **shuvamdutta657@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shuvam-dutta-733846264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shuvam-dutta-733846264" height="30" width="40" /></a>
+## 👨‍💻 About Me
 
+🚀 I’m a student deeply passionate about the world of **Agentic AI** and **Large Language Models (LLMs)**.<br>
+🔬 Currently exploring, building, and experimenting with intelligent agents, next-gen LLM architectures, and MLOps.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+- 🧠 Always learning about deep learning, NLP, and autonomous systems.
+- 🛠️ Building cool things in Python using libraries like **PyTorch**, **TensorFlow**, **LangChain**, **Transformers**, and more.
+- 💡 I love brainstorming on how AI can revolutionize everyday life!
+
+---
+
+## 🛠️ Top Skills & Technologies
+
+| Category                | Skills & Frameworks                                                                      |
+|-------------------------|------------------------------------------------------------------------------------------|
+| **Languages**           | Python, Java, SQL                                                                        |
+| **ML Frameworks**       | TensorFlow, PyTorch, Scikit-learn                                                        |
+| **MLOps**               | Docker, Kubernetes, MLflow                                                               |
+| **Deep Learning**       | CNNs, RNNs                                                                               |
+| **GenAI & Agents**      | LLMs & Transformers, RAG Architecture, Agentic Frameworks (CrewAI, LangGraph)            |
+| **Vector Databases**    | ChromaDB, FAISS                                                                          |
+| **Orchestration**       | LangChain, LlamaIndex                                                                    |
+| **API Development**     | FastAPI                                                                                   |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shuv13&show_icons=true&theme=radical" alt="Shuv13's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuv13&theme=radical" alt="Shuv13's GitHub streak" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"/> [LinkedIn](https://www.linkedin.com/in/shuvam-dutta)
+
+---
+
+## ⚡ Fun Facts
+
+- 📚 I enjoy reading books and comics—always on the lookout for something new to dive into!
+- 🎮 Gaming is my favorite way to relax and recharge.
+- 😄 I love simple conversations about tech, stories, or just sharing recommendations.
+
+---
+
+<p align="center">
+  <b>Let’s build the future of AI together!</b> <br>
+  <i>Feel free to reach out for collaboration, or just to say hi!</i> 😊
+</p>
