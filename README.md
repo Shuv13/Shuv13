@@ -1,69 +1,51 @@
-<!-- Profile README for Shuv13 -->
+<div align="center">
+  
+# Hi 👋, I'm Shuvam
 
-<h1 align="center">Hi there 👋, I'm Shuvam Dutta</h1>
-<p align="center">
-  <b>Student | ML Enthusiast | Agentic AI Explorer</b><br>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs--Transformers-purple?style=for-the-badge"/>
-</p>
+</div>
+<div align="center">
+accurate depiction of me btw:
+</div>
+<div align="center">
+<img src="https://github.com/user-attachments/assets/8568b8cc-0b66-4f6a-b2d2-ddfdc14b6745"/>
+</div>
 
----
-
-## 👨‍💻 About Me
-
-Hi! I'm a student and **Machine Learning enthusiast** passionate about building intelligent systems and exploring the latest in AI, LLMs, and agentic models.  
-I'm always experimenting with new frameworks, architectures, and data-centric solutions.
-
-- 🧠 Fascinated by deep learning, NLP, and computer vision.
-- 🛠️ Love working with both classic ML and cutting-edge AI.
-- 💡 Always curious about how to use technology to solve real-world problems.
+⚡ **Fun fact:** *It takes (n + 1) wipes of toilet paper to know it's clean.*
 
 ---
 
-## 🛠️ Technologies & Tools
-
-- **Programming Languages:** Python, Java, SQL
-- **Data & ML Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Machine Learning/AI:** TensorFlow, PyTorch, Computer Vision, NLP, LLMs & Transformers, RAG Architecture
-- **MLOps & Engineering:** Docker, Apache Airflow, Jupyter Notebooks, FastAPI
-- **Vector Databases:** ChromaDB, FAISS
-- **Orchestration & Agents:** LangChain
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shuv13&show_icons=true&theme=radical" alt="Shuv13's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shuv13&theme=radical" alt="Shuv13's GitHub streak" />
-</p>
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/shuvam-dutta" target="_blank">
-  <img align="left" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-</a>
-
-<br clear="left"/>
-
----
-
-## ⚡ Fun Facts
-
-- 📚 I enjoy reading books and comics—always on the lookout for something new to dive into!
-- 🎮 Gaming is my favorite way to relax and recharge.
-- 😄 I love simple conversations about tech, stories, or just sharing recommendations.
-
----
-
-<p align="center">
-  <b>Let’s build the future of AI together!</b> <br>
-  <i>Feel free to reach out for collaboration, or just to say hi!</i> 😊
+<p align="left">
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/shuvam-dutta" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/shuvamdutta657" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
+  </a>
 </p>
