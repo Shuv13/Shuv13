@@ -10,7 +10,7 @@ accurate depiction of me btw:
 <img src="https://github.com/user-attachments/assets/8568b8cc-0b66-4f6a-b2d2-ddfdc14b6745"/>
 </div>
 
-⚡ **Fun fact:** *It takes (n + 1) wipes of toilet paper to know it's clean.*
+⚡ **Fun fact:** *In Japan more paper is used to make manga than toilet paper.*
 
 ---
 
