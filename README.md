@@ -10,7 +10,7 @@ accurate depiction of me btw:
 <img src="https://github.com/user-attachments/assets/8568b8cc-0b66-4f6a-b2d2-ddfdc14b6745"/>
 </div>
 
-⚡ **Fun fact:** *All of the planets could fit inbetween the earth and the moon.*
+⚡ **Fun fact:** *All of the planets could fit in between the earth and the moon.*
 
 ---
 
